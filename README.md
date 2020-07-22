@@ -1,4 +1,4 @@
-### Hello 👋
+<img align="right" src="https://i.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.webp" />
 
 ### ⭐️ About me
 - 🇨🇳 China Shenzhen
