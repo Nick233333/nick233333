@@ -5,14 +5,14 @@
 - 🕹Web developer
 
 ### 👨‍💻 Languages and Tools
+[![PHP](https://img.shields.io/badge/PHP-8892BF?style=flat&logo=&logoColor=white&link=https://github.com/nick233333)](https://github.com/nick233333) 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/nick233333)](https://github.com/nick233333) 
 [![Go](https://img.shields.io/badge/-Go-black?style=flat&logo=go&link=https://github.com/nick233333)](https://github.com/nick233333) 
-[![PHP](https://img.shields.io/badge/PHP-8892BF?style=flat&logo=&logoColor=white&link=https://github.com/nick233333)](https://github.com/nick233333) 
-
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/nick233333)](https://github.com/nick233333) 
+
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/nick233333)](https://github.com/nick233333) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/nick233333)](https://github.com/nick233333) 
-[![Vue](https://img.shields.io/badge/-vue-Dark%20green?style=flat&logo=vue&link=https://github.com/nick233333)](https://github.com/nick233333) 
+[![Vue](https://img.shields.io/badge/-Vue-Dark%20green?style=flat&logo=Vue&link=https://github.com/nick233333)](https://github.com/nick233333) 
 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/nick233333)](https://github.com/nick233333)
 [![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/nick233333)](https://github.com/nick233333) 
