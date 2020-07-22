@@ -1,4 +1,4 @@
-<img align="right" src="https://i.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.webp" />
+<img align="right" src="https://i.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.webp" width="30%" />
 
 ### ⭐️ About me
 - 🇨🇳 China Shenzhen
